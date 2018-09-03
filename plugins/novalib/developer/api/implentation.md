@@ -14,15 +14,15 @@ Add this to your project's pom.xml, replacing “VERSION” with the target vers
 ```xml
 <repositories>
   <repository>
-    <id>maven-public</id>
-    <url>http://repo.novafox161.com/repository/maven-public/</url>
+    <id>nova-public</id>
+    <url>http://repo.novafox161.com/repository/nova-public/</url>
   </repository>
   ...
 </repositories>
  
 <dependencies>
   <dependency>
-    <groupId>com.novamaday.novalib</groupId>
+    <groupId>org.dreamexposure.novalib</groupId>
     <artifactId>API</artifactId>
     <version>VERSION</version>
     <scope>provided</scope>
@@ -39,11 +39,11 @@ Add this to your project's build.gradle file, replacing “VERSION” with the t
 ```groovy
   repositories {
     ...
-    maven { url 'http://repo.novafox161.com/repository/maven-public/' }
+    maven { url 'http://repo.novafox161.com/repository/nova-public/' }
   }
   
   dependencies {
-    implementation 'com.novamaday.novalib:API:VERSION'
+    implementation 'org.dreamexposure.novalib:API:VERSION'
   }
 ```
 
