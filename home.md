@@ -8,3 +8,7 @@ Welcome to the DreamExposure Wiki! Here everything DE works on is  documented wi
 DisCal is a discord bot that integrates Google Calendar into Discord seamlessly.
 Official Website: https://www.discalbot.com
 Wiki Page: https://wikijs.dreamexposure.org/projects/discal/start
+
+## Bukkit/Spigot Plugins
+### Free Resources
+* NovaLib: https://wikijs.dreamexposure.org/plugins/novalib/start
