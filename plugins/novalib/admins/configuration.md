@@ -2,7 +2,8 @@
 The NovaLib config is the same for both Bungee & Bukkit versions. This is because both are built on top of the exact same API and support just about everything together.
 
 ## Example Configuration
-<code YAML>
+
+```yaml
 DO NOT DELETE: NovaLib and NovaLibAPI are developed and managed by NovaFox161 (Shades161
 Updates:
   Check: true
@@ -18,7 +19,8 @@ CrossTalk:
   Client:
     Hostname: localhost
     Port: 5300
-</code>
+```
+
 
 ## Definitions
 > I will get this in very soon. 
