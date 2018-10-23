@@ -12,3 +12,7 @@ Wiki Page: https://wikijs.dreamexposure.org/projects/discal/start
 ## Bukkit/Spigot Plugins
 ### Free Resources
 * NovaLib: https://wikijs.dreamexposure.org/plugins/novalib/start
+
+## Infectus Caelestis RPG
+An Minecraft RPG powered by DreamExposure
+Check it out: https://rpgwiki.dreamexposure.org
