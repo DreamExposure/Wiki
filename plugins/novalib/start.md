@@ -3,6 +3,7 @@ NovaLib is a robust API and Library for all of my plugins. It can be used as a s
 
 NovaLib is designed to be simple to install and use, without sacrificing any features.
 
+Download NovaLib now!!! -> https://www.spigotmc.org/resources/novalib.61835/
 
 ## For Everyone
 * Features: https://wikijs.dreamexposure.org/plugins/novalib/features
