@@ -13,6 +13,9 @@ Wiki Page: https://wikijs.dreamexposure.org/projects/discal/start
 ### Free Resources
 * NovaLib: https://wikijs.dreamexposure.org/plugins/novalib/start
 
+### Premium Resources
+* InsaneWarps: https://wikijs.dreamexposure.org/plugins/insanewarps/start
+
 ## Infectus Caelestis RPG
 An Minecraft RPG powered by DreamExposure
 Check it out: https://rpgwiki.dreamexposure.org
