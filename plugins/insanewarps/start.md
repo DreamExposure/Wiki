@@ -171,6 +171,24 @@ world_the_end: world
 
 # Commands & Permissions
 ## Commands
+| Command Syntax    | Example         | Description                                         | Permission                     |
+|-------------------|-----------------|-----------------------------------------------------|--------------------------------|
+| /setwarp [name]   | /setwarp shop   | Sets a new warp with the specified name             | iw.warp.setwarp                |
+| /delwarp [name]   | /delwarp shop   | Deletes the specified warp                          | iw.warp.delwarp                |
+| /warp (name)      | /warp shop      | Teleports you to the warp                           | iw.warp.* OR iw.warp.[name]    |
+| /sethub [name]    | /sethub shop    | Sets a new hub with the specified name              | iw.hub.sethub                  |
+| /delhub [name]    | /delhub shop    | Deletes the specified hub                           | iw.hub.delhub                  |
+| /hub (name)       | /hub shop       | Teleports you to the hub                            | iw.hub.* OR iw.hub.[name]      |
+| /setlobby [name]  | /setlobby shop  | Sets a new lobby with the specified name            | iw.lobby.setlobby              |
+| /dellobby [name]  | /dellobby shop  | Deletes the specified lobby                         | iw.lobby.dellobby              |
+| /lobby (name)     | /lobby shop     | Teleports you to the lobby                          | iw.lobby.* OR iw.lobby.[name]  |
+| /setspawn         | /setspawn       | Sets the spawn point for the world                  | iw.spawn.setspawn              |
+| /delspawn [world] | /delspawn world | Deletes the specified world's spawn point           | iw.spawn.delspawn              |
+| /spawn (world)    | /spawn world    | Teleports you to the world's spawn point            | iw.spawn.* or iw.spawn.[world] |
+| /tpr              | /tpr            | Teleports you to a random location within the world | iw.tpr.use                     |
+
+
+## Permissions
 | Permission            | Description                                          | Default |
 |-----------------------|------------------------------------------------------|---------|
 | iw.econ.bypass        | Allows the player to bypass the cost of a teleport   | op      |
@@ -191,8 +209,6 @@ world_the_end: world
 | iw.tpr.use            | Allows the player to use the tpr command             | true    |
 | iw.tpr.ignoredelay    | Allows the player to bypass tpr delay                | op      |
 | iw.tpr.ignorecooldown | Allows the player to bypass tpr cooldown             | op      |
-
-## Permissions
 
 # Advanced Features
 * Signs: 
