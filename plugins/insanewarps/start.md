@@ -171,7 +171,26 @@ world_the_end: world
 
 # Commands & Permissions
 ## Commands
-
+| Permission            | Description                                          | Default |
+|-----------------------|------------------------------------------------------|---------|
+| iw.econ.bypass        | Allows the player to bypass the cost of a teleport   | op      |
+|  iw.join.bypass       | Allows the player to bypass teleportation upon join. | op      |
+| iw.sign.place         | Allows placing of InsaneWarp signs                   | op      |
+| iw.warp.ignoredelay   | Allows the player to bypass warp delay               | op      |
+| iw.warp.setwarp       | Allows the player to set a new warp location         | op      |
+| iw.warp.delwarp       | Allows the player to delete a warp location          | op      |
+| iw.hub.ignoredelay    | Allows the player to bypass hub delay                | op      |
+| iw.hub.sethub         | Allows the player to set a new hub location          | op      |
+| iw.hub.delhub         | Allows the player to delete a hub location           | op      |
+| iw.lobby.ignoredelay  | Allows the player to bypass lobby delay              | op      |
+| iw.lobby.setlobby     | Allows the player to set a new lobby location        | op      |
+| iw.lobby.delete       | Allows the player to delete a lobby location         | op      |
+| iw.spawn.ignoredelay  | Allows the player to bypass spawn delay              | op      |
+| iw.spawn.setspawn     | Allows the player to set a new spawn location        | op      |
+| iw.spawn.delspawn     | Allows the player to delete a spawn location         | op      |
+| iw.tpr.use            | Allows the player to use the tpr command             | true    |
+| iw.tpr.ignoredelay    | Allows the player to bypass tpr delay                | op      |
+| iw.tpr.ignorecooldown | Allows the player to bypass tpr cooldown             | op      |
 
 ## Permissions
 
